@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D6F02D729310C38009DACFF /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6F02D629310C38009DACFF /* DetailsVC.swift */; };
 		1D8EF9272930F10F006C8F6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8EF9262930F10F006C8F6B /* AppDelegate.swift */; };
 		1D8EF9292930F10F006C8F6B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8EF9282930F10F006C8F6B /* SceneDelegate.swift */; };
 		1D8EF92B2930F10F006C8F6B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8EF92A2930F10F006C8F6B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D6F02D629310C38009DACFF /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 		1D8EF9232930F10F006C8F6B /* LandmarkBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LandmarkBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D8EF9262930F10F006C8F6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1D8EF9282930F10F006C8F6B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				1D8EF9262930F10F006C8F6B /* AppDelegate.swift */,
 				1D8EF9282930F10F006C8F6B /* SceneDelegate.swift */,
+				1D6F02D629310C38009DACFF /* DetailsVC.swift */,
 				1D8EF92A2930F10F006C8F6B /* ViewController.swift */,
 				1D8EF92C2930F10F006C8F6B /* Main.storyboard */,
 				1D8EF92F2930F110006C8F6B /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D8EF92B2930F10F006C8F6B /* ViewController.swift in Sources */,
+				1D6F02D729310C38009DACFF /* DetailsVC.swift in Sources */,
 				1D8EF9272930F10F006C8F6B /* AppDelegate.swift in Sources */,
 				1D8EF9292930F10F006C8F6B /* SceneDelegate.swift in Sources */,
 			);
